@@ -410,8 +410,13 @@ svg:hover .tw {
 @media (max-width: 415px) {
 
   #header-style {
-    font-size: 22px;
-    padding-top: 0px;
+    font-size: 25px;
+    padding-top: 65px;
+  }
+
+  #header-style2 {
+    font-size: 15px;
+    padding-top: 20px;
   }
 
   #header {
