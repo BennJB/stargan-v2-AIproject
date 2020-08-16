@@ -450,10 +450,10 @@ svg:hover .tw {
   }
 
   .sample_image {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
-  
+
   .plus-style {
     width: 30px; 
     height: 30px;
@@ -477,7 +477,7 @@ svg:hover .tw {
   }
 
   .upload_image {
-    width: 312px;
+    width: 300px;
     padding: 15px 0 15px 0;
     display: flex;
     flex-direction: column;
